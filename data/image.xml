@@ -1,0 +1,14 @@
+<list>
+	<image>
+	<x>30</x>
+	<y>180</y>
+	<path>start-button.png</path>
+	<imageType>StartButtonImage</imageType>
+	</image>
+	<image>
+	<x>330</x>
+	<y>185</y>
+	<path>info-button.png</path>
+	<imageType>InfoButtonImage</imageType>
+	</image>
+</list>
